@@ -1,2 +1,4 @@
 # sqlite-net-4
-compatible with .Net 4.0
+based on [sqlite-net](https://github.com/praeclarum/sqlite-net).
+
+compatible with .NetFramework 4.0
